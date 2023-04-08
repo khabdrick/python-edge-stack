@@ -4,5 +4,5 @@ RUN mkdir /app
 WORKDIR /app
 RUN pip install Flask
 ADD . /app
-EXPOSE 5000
+EXPOSE 8080
 CMD python main.py
