@@ -27,7 +27,7 @@ kind: Service
 metadata:
   name: users
   annotations:
-        a8r.io/description: "users of the moment service"
+        a8r.io/description: "users app service"
         a8r.io/owner: "No owner"
         a8r.io/chat: "#ambassador"
 
